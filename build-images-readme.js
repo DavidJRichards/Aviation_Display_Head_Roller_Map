@@ -5,7 +5,7 @@ const path = require('path');
 
 const ROOT_DIR = '/home/david/Github/Aviation_Display_Head_Roller_Map/photos';
 const README_FILENAME = 'README.md';
-const NB_IMAGES_PER_LINE = 4;
+const NB_IMAGES_PER_LINE = 3;
 let nbImages = 0;
 let mdContent = '<table><tr>';
 
